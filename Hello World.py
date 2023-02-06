@@ -1,5 +1,6 @@
 #
-# Example file for HelloWorld
+# Example file for Hello World
+# mateusquadros@gigachad.com.br
 # LinkedIn Learning Python course by Joe Marini
 #
 
